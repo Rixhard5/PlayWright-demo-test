@@ -2,6 +2,9 @@ Commands:
 
 ---
 
+--'Init playwright on project.'
+- `npm init playwright@latest`
+
 --'Runs the end-to-end tests.'
 - `npx playwright test`
 
